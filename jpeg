@@ -1,0 +1,2224 @@
+Fetching package metadata .........
+
+pillow 2.1.0 py26_0
+-------------------
+file name   : pillow-2.1.0-py26_0.tar.bz2
+name        : pillow
+version     : 2.1.0
+build string: py26_0
+build number: 0
+channel     : defaults
+size        : 662 KB
+arch        : x86_64
+date        : 2013-08-27
+license     : PIL license
+license_family: Other
+md5         : 64217fac2fe2824598a5590c30a745f8
+noarch      : None
+platform    : linux
+url         : https://repo.continuum.io/pkgs/free/linux-64/pillow-2.1.0-py26_0.tar.bz2
+dependencies:
+    freetype 2.4*
+    jpeg 8d
+    libtiff 4.0*
+    python 2.6*
+    zlib 1.2*
+
+pillow 2.1.0 py27_0
+-------------------
+file name   : pillow-2.1.0-py27_0.tar.bz2
+name        : pillow
+version     : 2.1.0
+build string: py27_0
+build number: 0
+channel     : defaults
+size        : 662 KB
+arch        : x86_64
+date        : 2013-08-27
+license     : PIL license
+license_family: Other
+md5         : ccd3a22d50dbcc5a9463df86c3ee3e3a
+noarch      : None
+platform    : linux
+url         : https://repo.continuum.io/pkgs/free/linux-64/pillow-2.1.0-py27_0.tar.bz2
+dependencies:
+    freetype 2.4*
+    jpeg 8d
+    libtiff 4.0*
+    python 2.7*
+    zlib 1.2*
+
+pillow 2.1.0 py33_0
+-------------------
+file name   : pillow-2.1.0-py33_0.tar.bz2
+name        : pillow
+version     : 2.1.0
+build string: py33_0
+build number: 0
+channel     : defaults
+size        : 652 KB
+arch        : x86_64
+date        : 2013-08-27
+license     : PIL license
+license_family: Other
+md5         : a7d29a4669cfd1a2318f63289f2d6d7c
+noarch      : None
+platform    : linux
+url         : https://repo.continuum.io/pkgs/free/linux-64/pillow-2.1.0-py33_0.tar.bz2
+dependencies:
+    freetype 2.4*
+    jpeg 8d
+    libtiff 4.0*
+    python 3.3*
+    zlib 1.2*
+
+pillow 2.3.1 py26_0
+-------------------
+file name   : pillow-2.3.1-py26_0.tar.bz2
+name        : pillow
+version     : 2.3.1
+build string: py26_0
+build number: 0
+channel     : defaults
+size        : 678 KB
+arch        : x86_64
+date        : 2014-03-20
+license     : PIL license
+license_family: Other
+md5         : 886273caf1546e5e4876fe8ad88def7e
+noarch      : None
+platform    : linux
+url         : https://repo.continuum.io/pkgs/free/linux-64/pillow-2.3.1-py26_0.tar.bz2
+dependencies:
+    freetype 2.4*
+    jpeg 8d
+    libtiff 4.0*
+    python 2.6*
+    zlib 1.2*
+
+pillow 2.3.1 py27_0
+-------------------
+file name   : pillow-2.3.1-py27_0.tar.bz2
+name        : pillow
+version     : 2.3.1
+build string: py27_0
+build number: 0
+channel     : defaults
+size        : 679 KB
+arch        : x86_64
+date        : 2014-03-20
+license     : PIL license
+license_family: Other
+md5         : 47d98c869f56c7a5a0182aef786da126
+noarch      : None
+platform    : linux
+url         : https://repo.continuum.io/pkgs/free/linux-64/pillow-2.3.1-py27_0.tar.bz2
+dependencies:
+    freetype 2.4*
+    jpeg 8d
+    libtiff 4.0*
+    python 2.7*
+    zlib 1.2*
+
+pillow 2.3.1 py33_0
+-------------------
+file name   : pillow-2.3.1-py33_0.tar.bz2
+name        : pillow
+version     : 2.3.1
+build string: py33_0
+build number: 0
+channel     : defaults
+size        : 694 KB
+arch        : x86_64
+date        : 2014-03-20
+license     : PIL license
+license_family: Other
+md5         : f0cc4d037c92d19a9ca778b5e2079b20
+noarch      : None
+platform    : linux
+url         : https://repo.continuum.io/pkgs/free/linux-64/pillow-2.3.1-py33_0.tar.bz2
+dependencies:
+    freetype 2.4*
+    jpeg 8d
+    libtiff 4.0*
+    python 3.3*
+    zlib 1.2*
+
+pillow 2.3.1 py34_0
+-------------------
+file name   : pillow-2.3.1-py34_0.tar.bz2
+name        : pillow
+version     : 2.3.1
+build string: py34_0
+build number: 0
+channel     : defaults
+size        : 669 KB
+arch        : x86_64
+date        : 2014-05-19
+license     : PIL license
+license_family: Other
+md5         : 0bceaf9da879587f59ef769066c4ef83
+noarch      : None
+platform    : linux
+url         : https://repo.continuum.io/pkgs/free/linux-64/pillow-2.3.1-py34_0.tar.bz2
+dependencies:
+    freetype 2.4*
+    jpeg 8d
+    libtiff 4.0*
+    python 3.4*
+    zlib 1.2*
+
+pillow 2.4.0 py26_0
+-------------------
+file name   : pillow-2.4.0-py26_0.tar.bz2
+name        : pillow
+version     : 2.4.0
+build string: py26_0
+build number: 0
+channel     : defaults
+size        : 722 KB
+arch        : x86_64
+date        : 2014-04-11
+license     : PIL license
+license_family: Other
+md5         : 12b6446bb93c0964c969449ecf252397
+noarch      : None
+platform    : linux
+url         : https://repo.continuum.io/pkgs/free/linux-64/pillow-2.4.0-py26_0.tar.bz2
+dependencies:
+    freetype 2.4*
+    jpeg 8d
+    libtiff 4.0*
+    python 2.6*
+    zlib 1.2*
+
+pillow 2.4.0 py27_0
+-------------------
+file name   : pillow-2.4.0-py27_0.tar.bz2
+name        : pillow
+version     : 2.4.0
+build string: py27_0
+build number: 0
+channel     : defaults
+size        : 722 KB
+arch        : x86_64
+date        : 2014-04-11
+license     : PIL license
+license_family: Other
+md5         : 97916328cc614058cd588f5c4983ecc9
+noarch      : None
+platform    : linux
+url         : https://repo.continuum.io/pkgs/free/linux-64/pillow-2.4.0-py27_0.tar.bz2
+dependencies:
+    freetype 2.4*
+    jpeg 8d
+    libtiff 4.0*
+    python 2.7*
+    zlib 1.2*
+
+pillow 2.4.0 py33_0
+-------------------
+file name   : pillow-2.4.0-py33_0.tar.bz2
+name        : pillow
+version     : 2.4.0
+build string: py33_0
+build number: 0
+channel     : defaults
+size        : 738 KB
+arch        : x86_64
+date        : 2014-04-11
+license     : PIL license
+license_family: Other
+md5         : 5f4aa1ec0c8d5be7a8d33183facf45d6
+noarch      : None
+platform    : linux
+url         : https://repo.continuum.io/pkgs/free/linux-64/pillow-2.4.0-py33_0.tar.bz2
+dependencies:
+    freetype 2.4*
+    jpeg 8d
+    libtiff 4.0*
+    python 3.3*
+    zlib 1.2*
+
+pillow 2.4.0 py34_0
+-------------------
+file name   : pillow-2.4.0-py34_0.tar.bz2
+name        : pillow
+version     : 2.4.0
+build string: py34_0
+build number: 0
+channel     : defaults
+size        : 716 KB
+arch        : x86_64
+date        : 2014-05-19
+license     : PIL license
+license_family: Other
+md5         : 09706e74760f3516f95c0c2313f7618e
+noarch      : None
+platform    : linux
+url         : https://repo.continuum.io/pkgs/free/linux-64/pillow-2.4.0-py34_0.tar.bz2
+dependencies:
+    freetype 2.4*
+    jpeg 8d
+    libtiff 4.0*
+    python 3.4*
+    zlib 1.2*
+
+pillow 2.5.1 py26_0
+-------------------
+file name   : pillow-2.5.1-py26_0.tar.bz2
+name        : pillow
+version     : 2.5.1
+build string: py26_0
+build number: 0
+channel     : defaults
+size        : 741 KB
+arch        : x86_64
+date        : 2014-07-15
+license     : PIL license
+license_family: Other
+md5         : 608469473f1c97d1b4ba71b9bf6dba5e
+noarch      : None
+platform    : linux
+url         : https://repo.continuum.io/pkgs/free/linux-64/pillow-2.5.1-py26_0.tar.bz2
+dependencies:
+    freetype 2.4*
+    jpeg 8d
+    libtiff 4.0*
+    python 2.6*
+    zlib 1.2*
+
+pillow 2.5.1 py27_0
+-------------------
+file name   : pillow-2.5.1-py27_0.tar.bz2
+name        : pillow
+version     : 2.5.1
+build string: py27_0
+build number: 0
+channel     : defaults
+size        : 742 KB
+arch        : x86_64
+date        : 2014-07-15
+license     : PIL license
+license_family: Other
+md5         : e2b4ddf437c417b421dcbde48179d2e5
+noarch      : None
+platform    : linux
+url         : https://repo.continuum.io/pkgs/free/linux-64/pillow-2.5.1-py27_0.tar.bz2
+dependencies:
+    freetype 2.4*
+    jpeg 8d
+    libtiff 4.0*
+    python 2.7*
+    zlib 1.2*
+
+pillow 2.5.1 py33_0
+-------------------
+file name   : pillow-2.5.1-py33_0.tar.bz2
+name        : pillow
+version     : 2.5.1
+build string: py33_0
+build number: 0
+channel     : defaults
+size        : 725 KB
+arch        : x86_64
+date        : 2014-07-15
+license     : PIL license
+license_family: Other
+md5         : a4a323dda814acd9483d1ccd9ad985b4
+noarch      : None
+platform    : linux
+url         : https://repo.continuum.io/pkgs/free/linux-64/pillow-2.5.1-py33_0.tar.bz2
+dependencies:
+    freetype 2.4*
+    jpeg 8d
+    libtiff 4.0*
+    python 3.3*
+    zlib 1.2*
+
+pillow 2.5.1 py34_0
+-------------------
+file name   : pillow-2.5.1-py34_0.tar.bz2
+name        : pillow
+version     : 2.5.1
+build string: py34_0
+build number: 0
+channel     : defaults
+size        : 732 KB
+arch        : x86_64
+date        : 2014-07-15
+license     : PIL license
+license_family: Other
+md5         : e35e1b9e1a3b97a61c4091c30cb69f10
+noarch      : None
+platform    : linux
+url         : https://repo.continuum.io/pkgs/free/linux-64/pillow-2.5.1-py34_0.tar.bz2
+dependencies:
+    freetype 2.4*
+    jpeg 8d
+    libtiff 4.0*
+    python 3.4*
+    zlib 1.2*
+
+pillow 2.7.0 py26_0
+-------------------
+file name   : pillow-2.7.0-py26_0.tar.bz2
+name        : pillow
+version     : 2.7.0
+build string: py26_0
+build number: 0
+channel     : defaults
+size        : 802 KB
+arch        : x86_64
+date        : 2015-01-07
+license     : PIL license
+license_family: Other
+md5         : 40d4d18e10d6d347c0d19e2641b2b7c0
+noarch      : None
+platform    : linux
+url         : https://repo.continuum.io/pkgs/free/linux-64/pillow-2.7.0-py26_0.tar.bz2
+dependencies:
+    freetype 2.4*
+    jpeg 8d
+    libtiff 4.0*
+    python 2.6*
+    zlib 1.2*
+
+pillow 2.7.0 py27_0
+-------------------
+file name   : pillow-2.7.0-py27_0.tar.bz2
+name        : pillow
+version     : 2.7.0
+build string: py27_0
+build number: 0
+channel     : defaults
+size        : 803 KB
+arch        : x86_64
+date        : 2015-01-07
+license     : PIL license
+license_family: Other
+md5         : 7e3887004bccb126ca5f1d15eed53895
+noarch      : None
+platform    : linux
+url         : https://repo.continuum.io/pkgs/free/linux-64/pillow-2.7.0-py27_0.tar.bz2
+dependencies:
+    freetype 2.4*
+    jpeg 8d
+    libtiff 4.0*
+    python 2.7*
+    zlib 1.2*
+
+pillow 2.7.0 py33_0
+-------------------
+file name   : pillow-2.7.0-py33_0.tar.bz2
+name        : pillow
+version     : 2.7.0
+build string: py33_0
+build number: 0
+channel     : defaults
+size        : 798 KB
+arch        : x86_64
+date        : 2015-01-07
+license     : PIL license
+license_family: Other
+md5         : 1953a5bdce8fb4f1e1b95018c0854a81
+noarch      : None
+platform    : linux
+url         : https://repo.continuum.io/pkgs/free/linux-64/pillow-2.7.0-py33_0.tar.bz2
+dependencies:
+    freetype 2.4*
+    jpeg 8d
+    libtiff 4.0*
+    python 3.3*
+    zlib 1.2*
+
+pillow 2.7.0 py34_0
+-------------------
+file name   : pillow-2.7.0-py34_0.tar.bz2
+name        : pillow
+version     : 2.7.0
+build string: py34_0
+build number: 0
+channel     : defaults
+size        : 797 KB
+arch        : x86_64
+date        : 2015-01-07
+license     : PIL license
+license_family: Other
+md5         : 63a16e22bfb9610b00738f8b17c44849
+noarch      : None
+platform    : linux
+url         : https://repo.continuum.io/pkgs/free/linux-64/pillow-2.7.0-py34_0.tar.bz2
+dependencies:
+    freetype 2.4*
+    jpeg 8d
+    libtiff 4.0*
+    python 3.4*
+    zlib 1.2*
+
+pillow 2.7.0 py26_1
+-------------------
+file name   : pillow-2.7.0-py26_1.tar.bz2
+name        : pillow
+version     : 2.7.0
+build string: py26_1
+build number: 1
+channel     : defaults
+size        : 802 KB
+arch        : x86_64
+date        : 2015-03-19
+license     : PIL license
+license_family: Other
+md5         : d83b94ad03131e7857fd9b1eeebbebcb
+noarch      : None
+platform    : linux
+url         : https://repo.continuum.io/pkgs/free/linux-64/pillow-2.7.0-py26_1.tar.bz2
+dependencies:
+    freetype 2.5*
+    jpeg 8d
+    libtiff 4.0*
+    python 2.6*
+    zlib 1.2*
+
+pillow 2.7.0 py27_1
+-------------------
+file name   : pillow-2.7.0-py27_1.tar.bz2
+name        : pillow
+version     : 2.7.0
+build string: py27_1
+build number: 1
+channel     : defaults
+size        : 804 KB
+arch        : x86_64
+date        : 2015-03-19
+license     : PIL license
+license_family: Other
+md5         : 33ef1db3dfbccb5a852b365e2465f88e
+noarch      : None
+platform    : linux
+url         : https://repo.continuum.io/pkgs/free/linux-64/pillow-2.7.0-py27_1.tar.bz2
+dependencies:
+    freetype 2.5*
+    jpeg 8d
+    libtiff 4.0*
+    python 2.7*
+    zlib 1.2*
+
+pillow 2.7.0 py33_1
+-------------------
+file name   : pillow-2.7.0-py33_1.tar.bz2
+name        : pillow
+version     : 2.7.0
+build string: py33_1
+build number: 1
+channel     : defaults
+size        : 797 KB
+arch        : x86_64
+date        : 2015-03-19
+license     : PIL license
+license_family: Other
+md5         : 0ef32a5b2ba53f7d3709f26912f8295c
+noarch      : None
+platform    : linux
+url         : https://repo.continuum.io/pkgs/free/linux-64/pillow-2.7.0-py33_1.tar.bz2
+dependencies:
+    freetype 2.5*
+    jpeg 8d
+    libtiff 4.0*
+    python 3.3*
+    zlib 1.2*
+
+pillow 2.7.0 py34_1
+-------------------
+file name   : pillow-2.7.0-py34_1.tar.bz2
+name        : pillow
+version     : 2.7.0
+build string: py34_1
+build number: 1
+channel     : defaults
+size        : 797 KB
+arch        : x86_64
+date        : 2015-03-19
+license     : PIL license
+license_family: Other
+md5         : ec955f823ebb68dc790a17665203f214
+noarch      : None
+platform    : linux
+url         : https://repo.continuum.io/pkgs/free/linux-64/pillow-2.7.0-py34_1.tar.bz2
+dependencies:
+    freetype 2.5*
+    jpeg 8d
+    libtiff 4.0*
+    python 3.4*
+    zlib 1.2*
+
+pillow 2.8.1 py26_1
+-------------------
+file name   : pillow-2.8.1-py26_1.tar.bz2
+name        : pillow
+version     : 2.8.1
+build string: py26_1
+build number: 1
+channel     : defaults
+size        : 805 KB
+arch        : x86_64
+date        : 2015-04-03
+license     : PIL license
+license_family: Other
+md5         : 1252a241a882fb7eece707a3488d09f6
+noarch      : None
+platform    : linux
+url         : https://repo.continuum.io/pkgs/free/linux-64/pillow-2.8.1-py26_1.tar.bz2
+dependencies:
+    freetype 2.5*
+    jpeg 8d
+    libtiff 4.0*
+    python 2.6*
+    zlib 1.2*
+
+pillow 2.8.1 py27_1
+-------------------
+file name   : pillow-2.8.1-py27_1.tar.bz2
+name        : pillow
+version     : 2.8.1
+build string: py27_1
+build number: 1
+channel     : defaults
+size        : 806 KB
+arch        : x86_64
+date        : 2015-04-03
+license     : PIL license
+license_family: Other
+md5         : dc970ee38cf7e0f57169374d612d5526
+noarch      : None
+platform    : linux
+url         : https://repo.continuum.io/pkgs/free/linux-64/pillow-2.8.1-py27_1.tar.bz2
+dependencies:
+    freetype 2.5*
+    jpeg 8d
+    libtiff 4.0*
+    python 2.7*
+    zlib 1.2*
+
+pillow 2.8.1 py33_1
+-------------------
+file name   : pillow-2.8.1-py33_1.tar.bz2
+name        : pillow
+version     : 2.8.1
+build string: py33_1
+build number: 1
+channel     : defaults
+size        : 800 KB
+arch        : x86_64
+date        : 2015-04-03
+license     : PIL license
+license_family: Other
+md5         : 7cf24720b1ea2a2259a85070c51198ed
+noarch      : None
+platform    : linux
+url         : https://repo.continuum.io/pkgs/free/linux-64/pillow-2.8.1-py33_1.tar.bz2
+dependencies:
+    freetype 2.5*
+    jpeg 8d
+    libtiff 4.0*
+    python 3.3*
+    zlib 1.2*
+
+pillow 2.8.1 py34_1
+-------------------
+file name   : pillow-2.8.1-py34_1.tar.bz2
+name        : pillow
+version     : 2.8.1
+build string: py34_1
+build number: 1
+channel     : defaults
+size        : 800 KB
+arch        : x86_64
+date        : 2015-04-03
+license     : PIL license
+license_family: Other
+md5         : ccaf19c832ab54b88322960a522d7f79
+noarch      : None
+platform    : linux
+url         : https://repo.continuum.io/pkgs/free/linux-64/pillow-2.8.1-py34_1.tar.bz2
+dependencies:
+    freetype 2.5*
+    jpeg 8d
+    libtiff 4.0*
+    python 3.4*
+    zlib 1.2*
+
+pillow 2.8.1 py26_2
+-------------------
+file name   : pillow-2.8.1-py26_2.tar.bz2
+name        : pillow
+version     : 2.8.1
+build string: py26_2
+build number: 2
+channel     : defaults
+size        : 805 KB
+arch        : x86_64
+date        : 2015-05-27
+license     : PIL license
+license_family: Other
+md5         : a632e303439d805b0e9bb731e8b6dcf8
+noarch      : None
+platform    : linux
+url         : https://repo.continuum.io/pkgs/free/linux-64/pillow-2.8.1-py26_2.tar.bz2
+dependencies:
+    freetype 2.5*
+    jpeg 8d
+    libtiff 4.0*
+    python 2.6*
+    zlib 1.2*
+
+pillow 2.8.1 py27_2
+-------------------
+file name   : pillow-2.8.1-py27_2.tar.bz2
+name        : pillow
+version     : 2.8.1
+build string: py27_2
+build number: 2
+channel     : defaults
+size        : 806 KB
+arch        : x86_64
+date        : 2015-05-26
+license     : PIL license
+license_family: Other
+md5         : a04086180e5427533d28dfd45714b7e3
+noarch      : None
+platform    : linux
+url         : https://repo.continuum.io/pkgs/free/linux-64/pillow-2.8.1-py27_2.tar.bz2
+dependencies:
+    freetype 2.5*
+    jpeg 8d
+    libtiff 4.0*
+    python 2.7*
+    zlib 1.2*
+
+pillow 2.8.1 py33_2
+-------------------
+file name   : pillow-2.8.1-py33_2.tar.bz2
+name        : pillow
+version     : 2.8.1
+build string: py33_2
+build number: 2
+channel     : defaults
+size        : 800 KB
+arch        : x86_64
+date        : 2015-05-27
+license     : PIL license
+license_family: Other
+md5         : 530f7211995b9dc87bb920e4962fdc19
+noarch      : None
+platform    : linux
+url         : https://repo.continuum.io/pkgs/free/linux-64/pillow-2.8.1-py33_2.tar.bz2
+dependencies:
+    freetype 2.5*
+    jpeg 8d
+    libtiff 4.0*
+    python 3.3*
+    zlib 1.2*
+
+pillow 2.8.1 py34_2
+-------------------
+file name   : pillow-2.8.1-py34_2.tar.bz2
+name        : pillow
+version     : 2.8.1
+build string: py34_2
+build number: 2
+channel     : defaults
+size        : 799 KB
+arch        : x86_64
+date        : 2015-05-27
+license     : PIL license
+license_family: Other
+md5         : ecf794b89eb8f57854faf2dd9d8aa3cf
+noarch      : None
+platform    : linux
+url         : https://repo.continuum.io/pkgs/free/linux-64/pillow-2.8.1-py34_2.tar.bz2
+dependencies:
+    freetype 2.5*
+    jpeg 8d
+    libtiff 4.0*
+    python 3.4*
+    zlib 1.2*
+
+pillow 2.8.2 py26_0
+-------------------
+file name   : pillow-2.8.2-py26_0.tar.bz2
+name        : pillow
+version     : 2.8.2
+build string: py26_0
+build number: 0
+channel     : defaults
+size        : 805 KB
+arch        : x86_64
+date        : 2015-06-17
+license     : PIL license
+license_family: Other
+md5         : 596bb5920aca2961619c631cb70fce1d
+noarch      : None
+platform    : linux
+url         : https://repo.continuum.io/pkgs/free/linux-64/pillow-2.8.2-py26_0.tar.bz2
+dependencies:
+    freetype 2.5*
+    jpeg 8d
+    libtiff 4.0*
+    python 2.6*
+    zlib 1.2*
+
+pillow 2.8.2 py27_0
+-------------------
+file name   : pillow-2.8.2-py27_0.tar.bz2
+name        : pillow
+version     : 2.8.2
+build string: py27_0
+build number: 0
+channel     : defaults
+size        : 806 KB
+arch        : x86_64
+date        : 2015-06-17
+license     : PIL license
+license_family: Other
+md5         : 41c6b9bfe562d9bd7072ce299d09cc12
+noarch      : None
+platform    : linux
+url         : https://repo.continuum.io/pkgs/free/linux-64/pillow-2.8.2-py27_0.tar.bz2
+dependencies:
+    freetype 2.5*
+    jpeg 8d
+    libtiff 4.0*
+    python 2.7*
+    zlib 1.2*
+
+pillow 2.8.2 py33_0
+-------------------
+file name   : pillow-2.8.2-py33_0.tar.bz2
+name        : pillow
+version     : 2.8.2
+build string: py33_0
+build number: 0
+channel     : defaults
+size        : 801 KB
+arch        : x86_64
+date        : 2015-06-17
+license     : PIL license
+license_family: Other
+md5         : 1db9ba689ce4c86cbf2211793c216ead
+noarch      : None
+platform    : linux
+url         : https://repo.continuum.io/pkgs/free/linux-64/pillow-2.8.2-py33_0.tar.bz2
+dependencies:
+    freetype 2.5*
+    jpeg 8d
+    libtiff 4.0*
+    python 3.3*
+    zlib 1.2*
+
+pillow 2.8.2 py34_0
+-------------------
+file name   : pillow-2.8.2-py34_0.tar.bz2
+name        : pillow
+version     : 2.8.2
+build string: py34_0
+build number: 0
+channel     : defaults
+size        : 800 KB
+arch        : x86_64
+date        : 2015-06-17
+license     : PIL license
+license_family: Other
+md5         : 91156d275c21cd01558346e5971ff03e
+noarch      : None
+platform    : linux
+url         : https://repo.continuum.io/pkgs/free/linux-64/pillow-2.8.2-py34_0.tar.bz2
+dependencies:
+    freetype 2.5*
+    jpeg 8d
+    libtiff 4.0*
+    python 3.4*
+    zlib 1.2*
+
+pillow 2.9.0 py26_0
+-------------------
+file name   : pillow-2.9.0-py26_0.tar.bz2
+name        : pillow
+version     : 2.9.0
+build string: py26_0
+build number: 0
+channel     : defaults
+size        : 814 KB
+arch        : x86_64
+date        : 2015-07-06
+license     : PIL license
+license_family: Other
+md5         : 17b47e0af202fe4aaa830cffaecdf2cf
+noarch      : None
+platform    : linux
+url         : https://repo.continuum.io/pkgs/free/linux-64/pillow-2.9.0-py26_0.tar.bz2
+dependencies:
+    freetype 2.5*
+    jpeg 8d
+    libtiff 4.0*
+    python 2.6*
+    zlib 1.2*
+
+pillow 2.9.0 py27_0
+-------------------
+file name   : pillow-2.9.0-py27_0.tar.bz2
+name        : pillow
+version     : 2.9.0
+build string: py27_0
+build number: 0
+channel     : defaults
+size        : 815 KB
+arch        : x86_64
+date        : 2015-07-06
+license     : PIL license
+license_family: Other
+md5         : ec1132ebc33605c72005bd2fc7ebab94
+noarch      : None
+platform    : linux
+url         : https://repo.continuum.io/pkgs/free/linux-64/pillow-2.9.0-py27_0.tar.bz2
+dependencies:
+    freetype 2.5*
+    jpeg 8d
+    libtiff 4.0*
+    python 2.7*
+    zlib 1.2*
+
+pillow 2.9.0 py33_0
+-------------------
+file name   : pillow-2.9.0-py33_0.tar.bz2
+name        : pillow
+version     : 2.9.0
+build string: py33_0
+build number: 0
+channel     : defaults
+size        : 813 KB
+arch        : x86_64
+date        : 2015-07-06
+license     : PIL license
+license_family: Other
+md5         : 49424c265bba68a71f8c23795636a6a0
+noarch      : None
+platform    : linux
+url         : https://repo.continuum.io/pkgs/free/linux-64/pillow-2.9.0-py33_0.tar.bz2
+dependencies:
+    freetype 2.5*
+    jpeg 8d
+    libtiff 4.0*
+    python 3.3*
+    zlib 1.2*
+
+pillow 2.9.0 py34_0
+-------------------
+file name   : pillow-2.9.0-py34_0.tar.bz2
+name        : pillow
+version     : 2.9.0
+build string: py34_0
+build number: 0
+channel     : defaults
+size        : 812 KB
+arch        : x86_64
+date        : 2015-07-06
+license     : PIL license
+license_family: Other
+md5         : f29e7f3f1cdfb52ee31f31dd6db93ddc
+noarch      : None
+platform    : linux
+url         : https://repo.continuum.io/pkgs/free/linux-64/pillow-2.9.0-py34_0.tar.bz2
+dependencies:
+    freetype 2.5*
+    jpeg 8d
+    libtiff 4.0*
+    python 3.4*
+    zlib 1.2*
+
+pillow 2.9.0 py35_0
+-------------------
+file name   : pillow-2.9.0-py35_0.tar.bz2
+name        : pillow
+version     : 2.9.0
+build string: py35_0
+build number: 0
+channel     : defaults
+size        : 798 KB
+arch        : x86_64
+date        : 2015-09-10
+license     : PIL license
+license_family: Other
+md5         : 5693619331ce27a8bc0aedf1c14d6e98
+noarch      : None
+platform    : linux
+url         : https://repo.continuum.io/pkgs/free/linux-64/pillow-2.9.0-py35_0.tar.bz2
+dependencies:
+    freetype 2.5*
+    jpeg 8d
+    libtiff 4.0*
+    python 3.5*
+    zlib 1.2*
+
+pillow 3.0.0 py27_0
+-------------------
+file name   : pillow-3.0.0-py27_0.tar.bz2
+name        : pillow
+version     : 3.0.0
+build string: py27_0
+build number: 0
+channel     : defaults
+size        : 822 KB
+arch        : x86_64
+date        : 2015-10-04
+license     : PIL license
+license_family: Other
+md5         : d3c86bb4182e9da820447543fb7a6174
+noarch      : None
+platform    : linux
+url         : https://repo.continuum.io/pkgs/free/linux-64/pillow-3.0.0-py27_0.tar.bz2
+dependencies:
+    freetype 2.5*
+    jpeg 8d
+    libtiff 4.0*
+    python 2.7*
+    zlib 1.2*
+
+pillow 3.0.0 py33_0
+-------------------
+file name   : pillow-3.0.0-py33_0.tar.bz2
+name        : pillow
+version     : 3.0.0
+build string: py33_0
+build number: 0
+channel     : defaults
+size        : 819 KB
+arch        : x86_64
+date        : 2015-10-04
+license     : PIL license
+license_family: Other
+md5         : 5f62bf22e8aa5194e9f36c4044a198dc
+noarch      : None
+platform    : linux
+url         : https://repo.continuum.io/pkgs/free/linux-64/pillow-3.0.0-py33_0.tar.bz2
+dependencies:
+    freetype 2.5*
+    jpeg 8d
+    libtiff 4.0*
+    python 3.3*
+    zlib 1.2*
+
+pillow 3.0.0 py34_0
+-------------------
+file name   : pillow-3.0.0-py34_0.tar.bz2
+name        : pillow
+version     : 3.0.0
+build string: py34_0
+build number: 0
+channel     : defaults
+size        : 818 KB
+arch        : x86_64
+date        : 2015-10-04
+license     : PIL license
+license_family: Other
+md5         : 76f773adc81d5c475caa912e7381e807
+noarch      : None
+platform    : linux
+url         : https://repo.continuum.io/pkgs/free/linux-64/pillow-3.0.0-py34_0.tar.bz2
+dependencies:
+    freetype 2.5*
+    jpeg 8d
+    libtiff 4.0*
+    python 3.4*
+    zlib 1.2*
+
+pillow 3.0.0 py35_0
+-------------------
+file name   : pillow-3.0.0-py35_0.tar.bz2
+name        : pillow
+version     : 3.0.0
+build string: py35_0
+build number: 0
+channel     : defaults
+size        : 804 KB
+arch        : x86_64
+date        : 2015-10-04
+license     : PIL license
+license_family: Other
+md5         : 3e4d4f7b4c16fc77774b084dc298668c
+noarch      : None
+platform    : linux
+url         : https://repo.continuum.io/pkgs/free/linux-64/pillow-3.0.0-py35_0.tar.bz2
+dependencies:
+    freetype 2.5*
+    jpeg 8d
+    libtiff 4.0*
+    python 3.5*
+    zlib 1.2*
+
+pillow 3.0.0 py27_1
+-------------------
+file name   : pillow-3.0.0-py27_1.tar.bz2
+name        : pillow
+version     : 3.0.0
+build string: py27_1
+build number: 1
+channel     : defaults
+size        : 821 KB
+arch        : x86_64
+date        : 2015-10-20
+license     : PIL license
+license_family: Other
+md5         : 2082b5c9d8dd20de6802751ee0d0247e
+noarch      : None
+platform    : linux
+url         : https://repo.continuum.io/pkgs/free/linux-64/pillow-3.0.0-py27_1.tar.bz2
+dependencies:
+    freetype 2.5*
+    jpeg 8d
+    libtiff 4.0*
+    python 2.7*
+    zlib 1.2*
+
+pillow 3.0.0 py33_1
+-------------------
+file name   : pillow-3.0.0-py33_1.tar.bz2
+name        : pillow
+version     : 3.0.0
+build string: py33_1
+build number: 1
+channel     : defaults
+size        : 819 KB
+arch        : x86_64
+date        : 2015-10-20
+license     : PIL license
+license_family: Other
+md5         : bb07591fa2731e05f605359e435d42dc
+noarch      : None
+platform    : linux
+url         : https://repo.continuum.io/pkgs/free/linux-64/pillow-3.0.0-py33_1.tar.bz2
+dependencies:
+    freetype 2.5*
+    jpeg 8d
+    libtiff 4.0*
+    python 3.3*
+    zlib 1.2*
+
+pillow 3.0.0 py34_1
+-------------------
+file name   : pillow-3.0.0-py34_1.tar.bz2
+name        : pillow
+version     : 3.0.0
+build string: py34_1
+build number: 1
+channel     : defaults
+size        : 818 KB
+arch        : x86_64
+date        : 2015-10-20
+license     : PIL license
+license_family: Other
+md5         : 2015e58823a63b515416c2b3d927ea30
+noarch      : None
+platform    : linux
+url         : https://repo.continuum.io/pkgs/free/linux-64/pillow-3.0.0-py34_1.tar.bz2
+dependencies:
+    freetype 2.5*
+    jpeg 8d
+    libtiff 4.0*
+    python 3.4*
+    zlib 1.2*
+
+pillow 3.0.0 py35_1
+-------------------
+file name   : pillow-3.0.0-py35_1.tar.bz2
+name        : pillow
+version     : 3.0.0
+build string: py35_1
+build number: 1
+channel     : defaults
+size        : 804 KB
+arch        : x86_64
+date        : 2015-10-20
+license     : PIL license
+license_family: Other
+md5         : 1118bdb886164e0316cbad47f2befdde
+noarch      : None
+platform    : linux
+url         : https://repo.continuum.io/pkgs/free/linux-64/pillow-3.0.0-py35_1.tar.bz2
+dependencies:
+    freetype 2.5*
+    jpeg 8d
+    libtiff 4.0*
+    python 3.5*
+    zlib 1.2*
+
+pillow 3.1.0 py27_0
+-------------------
+file name   : pillow-3.1.0-py27_0.tar.bz2
+name        : pillow
+version     : 3.1.0
+build string: py27_0
+build number: 0
+channel     : defaults
+size        : 823 KB
+arch        : x86_64
+date        : 2016-01-15
+license     : PIL license
+license_family: Other
+md5         : 7f06da303d4a6c720888bfbec5ca3d05
+noarch      : None
+platform    : linux
+url         : https://repo.continuum.io/pkgs/free/linux-64/pillow-3.1.0-py27_0.tar.bz2
+dependencies:
+    freetype 2.5*
+    jpeg 8d
+    libtiff 4.0*
+    python 2.7*
+    zlib 1.2*
+
+pillow 3.1.0 py34_0
+-------------------
+file name   : pillow-3.1.0-py34_0.tar.bz2
+name        : pillow
+version     : 3.1.0
+build string: py34_0
+build number: 0
+channel     : defaults
+size        : 820 KB
+arch        : x86_64
+date        : 2016-01-15
+license     : PIL license
+license_family: Other
+md5         : d33ad7762bf2251f01cf274a9aa23ffe
+noarch      : None
+platform    : linux
+url         : https://repo.continuum.io/pkgs/free/linux-64/pillow-3.1.0-py34_0.tar.bz2
+dependencies:
+    freetype 2.5*
+    jpeg 8d
+    libtiff 4.0*
+    python 3.4*
+    zlib 1.2*
+
+pillow 3.1.0 py35_0
+-------------------
+file name   : pillow-3.1.0-py35_0.tar.bz2
+name        : pillow
+version     : 3.1.0
+build string: py35_0
+build number: 0
+channel     : defaults
+size        : 807 KB
+arch        : x86_64
+date        : 2016-01-15
+license     : PIL license
+license_family: Other
+md5         : f84703e11089b06ad3d938662b96fd41
+noarch      : None
+platform    : linux
+url         : https://repo.continuum.io/pkgs/free/linux-64/pillow-3.1.0-py35_0.tar.bz2
+dependencies:
+    freetype 2.5*
+    jpeg 8d
+    libtiff 4.0*
+    python 3.5*
+    zlib 1.2*
+
+pillow 3.1.1 py27_0
+-------------------
+file name   : pillow-3.1.1-py27_0.tar.bz2
+name        : pillow
+version     : 3.1.1
+build string: py27_0
+build number: 0
+channel     : defaults
+size        : 790 KB
+arch        : x86_64
+date        : 2016-02-08
+license     : PIL license
+license_family: Other
+md5         : 1f879c869f5dc7d7d52d126828711cbf
+noarch      : None
+platform    : linux
+url         : https://repo.continuum.io/pkgs/free/linux-64/pillow-3.1.1-py27_0.tar.bz2
+dependencies:
+    freetype 2.5*
+    jpeg 8d
+    libtiff 4.0*
+    python 2.7*
+    zlib 1.2*
+
+pillow 3.1.1 py34_0
+-------------------
+file name   : pillow-3.1.1-py34_0.tar.bz2
+name        : pillow
+version     : 3.1.1
+build string: py34_0
+build number: 0
+channel     : defaults
+size        : 814 KB
+arch        : x86_64
+date        : 2016-02-08
+license     : PIL license
+license_family: Other
+md5         : a76a21cdfa1eb7eb01985725e69d01d1
+noarch      : None
+platform    : linux
+url         : https://repo.continuum.io/pkgs/free/linux-64/pillow-3.1.1-py34_0.tar.bz2
+dependencies:
+    freetype 2.5*
+    jpeg 8d
+    libtiff 4.0*
+    python 3.4*
+    zlib 1.2*
+
+pillow 3.1.1 py35_0
+-------------------
+file name   : pillow-3.1.1-py35_0.tar.bz2
+name        : pillow
+version     : 3.1.1
+build string: py35_0
+build number: 0
+channel     : defaults
+size        : 812 KB
+arch        : x86_64
+date        : 2016-02-08
+license     : PIL license
+license_family: Other
+md5         : b42a8824db5e9f0c771b845730b4f973
+noarch      : None
+platform    : linux
+url         : https://repo.continuum.io/pkgs/free/linux-64/pillow-3.1.1-py35_0.tar.bz2
+dependencies:
+    freetype 2.5*
+    jpeg 8d
+    libtiff 4.0*
+    python 3.5*
+    zlib 1.2*
+
+pillow 3.2.0 py27_0
+-------------------
+file name   : pillow-3.2.0-py27_0.tar.bz2
+name        : pillow
+version     : 3.2.0
+build string: py27_0
+build number: 0
+channel     : defaults
+size        : 797 KB
+arch        : x86_64
+date        : 2016-04-02
+license     : PIL license
+license_family: Other
+md5         : 339d67e7568443430dbfc73c365811d8
+noarch      : None
+platform    : linux
+url         : https://repo.continuum.io/pkgs/free/linux-64/pillow-3.2.0-py27_0.tar.bz2
+dependencies:
+    freetype 2.5*
+    jpeg 8d
+    libtiff 4.0*
+    python 2.7*
+    zlib 1.2*
+
+pillow 3.2.0 py34_0
+-------------------
+file name   : pillow-3.2.0-py34_0.tar.bz2
+name        : pillow
+version     : 3.2.0
+build string: py34_0
+build number: 0
+channel     : defaults
+size        : 825 KB
+arch        : x86_64
+date        : 2016-04-02
+license     : PIL license
+license_family: Other
+md5         : f9114eab4e814bbd1a41765594197c35
+noarch      : None
+platform    : linux
+url         : https://repo.continuum.io/pkgs/free/linux-64/pillow-3.2.0-py34_0.tar.bz2
+dependencies:
+    freetype 2.5*
+    jpeg 8d
+    libtiff 4.0*
+    python 3.4*
+    zlib 1.2*
+
+pillow 3.2.0 py35_0
+-------------------
+file name   : pillow-3.2.0-py35_0.tar.bz2
+name        : pillow
+version     : 3.2.0
+build string: py35_0
+build number: 0
+channel     : defaults
+size        : 824 KB
+arch        : x86_64
+date        : 2016-04-02
+license     : PIL license
+license_family: Other
+md5         : 5105ec19c55ebce80277ce055bf12d4b
+noarch      : None
+platform    : linux
+url         : https://repo.continuum.io/pkgs/free/linux-64/pillow-3.2.0-py35_0.tar.bz2
+dependencies:
+    freetype 2.5*
+    jpeg 8d
+    libtiff 4.0*
+    python 3.5*
+    zlib 1.2*
+
+pillow 3.2.0 py27_1
+-------------------
+file name   : pillow-3.2.0-py27_1.tar.bz2
+name        : pillow
+version     : 3.2.0
+build string: py27_1
+build number: 1
+channel     : defaults
+size        : 797 KB
+arch        : x86_64
+date        : 2016-06-02
+license     : PIL license
+license_family: Other
+md5         : 913654efd5daa1ab77407c2d8b3a43ff
+noarch      : None
+platform    : linux
+url         : https://repo.continuum.io/pkgs/free/linux-64/pillow-3.2.0-py27_1.tar.bz2
+dependencies:
+    freetype 2.5.*
+    jpeg 8d
+    libtiff 4.0.*
+    python 2.7*
+    zlib 1.2.*
+
+pillow 3.2.0 py34_1
+-------------------
+file name   : pillow-3.2.0-py34_1.tar.bz2
+name        : pillow
+version     : 3.2.0
+build string: py34_1
+build number: 1
+channel     : defaults
+size        : 827 KB
+arch        : x86_64
+date        : 2016-06-02
+license     : PIL license
+license_family: Other
+md5         : 59995dd17caf408820073eee1b7f25b5
+noarch      : None
+platform    : linux
+url         : https://repo.continuum.io/pkgs/free/linux-64/pillow-3.2.0-py34_1.tar.bz2
+dependencies:
+    freetype 2.5.*
+    jpeg 8d
+    libtiff 4.0.*
+    python 3.4*
+    zlib 1.2.*
+
+pillow 3.2.0 py35_1
+-------------------
+file name   : pillow-3.2.0-py35_1.tar.bz2
+name        : pillow
+version     : 3.2.0
+build string: py35_1
+build number: 1
+channel     : defaults
+size        : 825 KB
+arch        : x86_64
+date        : 2016-06-02
+license     : PIL license
+license_family: Other
+md5         : 238498a7062ca321fb4410800c4b36d9
+noarch      : None
+platform    : linux
+url         : https://repo.continuum.io/pkgs/free/linux-64/pillow-3.2.0-py35_1.tar.bz2
+dependencies:
+    freetype 2.5.*
+    jpeg 8d
+    libtiff 4.0.*
+    python 3.5*
+    zlib 1.2.*
+
+pillow 3.3.0 py27_0
+-------------------
+file name   : pillow-3.3.0-py27_0.tar.bz2
+name        : pillow
+version     : 3.3.0
+build string: py27_0
+build number: 0
+channel     : defaults
+size        : 809 KB
+arch        : x86_64
+date        : 2016-07-08
+license     : PIL license
+license_family: Other
+md5         : a5b27fcb9f1383b4cd2b1109148bbdd3
+noarch      : None
+platform    : linux
+url         : https://repo.continuum.io/pkgs/free/linux-64/pillow-3.3.0-py27_0.tar.bz2
+dependencies:
+    freetype 2.5.*
+    jpeg 8d
+    libtiff 4.0.*
+    python 2.7*
+    zlib 1.2.*
+
+pillow 3.3.0 py34_0
+-------------------
+file name   : pillow-3.3.0-py34_0.tar.bz2
+name        : pillow
+version     : 3.3.0
+build string: py34_0
+build number: 0
+channel     : defaults
+size        : 850 KB
+arch        : x86_64
+date        : 2016-07-08
+license     : PIL license
+license_family: Other
+md5         : 1b09fc05a28d0cc5428ba76c999fb974
+noarch      : None
+platform    : linux
+url         : https://repo.continuum.io/pkgs/free/linux-64/pillow-3.3.0-py34_0.tar.bz2
+dependencies:
+    freetype 2.5.*
+    jpeg 8d
+    libtiff 4.0.*
+    python 3.4*
+    zlib 1.2.*
+
+pillow 3.3.0 py35_0
+-------------------
+file name   : pillow-3.3.0-py35_0.tar.bz2
+name        : pillow
+version     : 3.3.0
+build string: py35_0
+build number: 0
+channel     : defaults
+size        : 849 KB
+arch        : x86_64
+date        : 2016-07-08
+license     : PIL license
+license_family: Other
+md5         : 2004dd58cd8b7526c45094b56c2fbfe4
+noarch      : None
+platform    : linux
+url         : https://repo.continuum.io/pkgs/free/linux-64/pillow-3.3.0-py35_0.tar.bz2
+dependencies:
+    freetype 2.5.*
+    jpeg 8d
+    libtiff 4.0.*
+    python 3.5*
+    zlib 1.2.*
+
+pillow 3.3.1 py27_0
+-------------------
+file name   : pillow-3.3.1-py27_0.tar.bz2
+name        : pillow
+version     : 3.3.1
+build string: py27_0
+build number: 0
+channel     : defaults
+size        : 810 KB
+arch        : x86_64
+date        : 2016-08-22
+license     : PIL license
+license_family: Other
+md5         : e064546ede160b61ddd5cc66637739ff
+noarch      : None
+platform    : linux
+url         : https://repo.continuum.io/pkgs/free/linux-64/pillow-3.3.1-py27_0.tar.bz2
+dependencies:
+    freetype 2.5.*
+    jpeg 8d
+    libtiff 4.0.*
+    python 2.7*
+    zlib 1.2.*
+
+pillow 3.3.1 py34_0
+-------------------
+file name   : pillow-3.3.1-py34_0.tar.bz2
+name        : pillow
+version     : 3.3.1
+build string: py34_0
+build number: 0
+channel     : defaults
+size        : 850 KB
+arch        : x86_64
+date        : 2016-08-22
+license     : PIL license
+license_family: Other
+md5         : 65c3cb2573f0946c4e41f82c895c19d8
+noarch      : None
+platform    : linux
+url         : https://repo.continuum.io/pkgs/free/linux-64/pillow-3.3.1-py34_0.tar.bz2
+dependencies:
+    freetype 2.5.*
+    jpeg 8d
+    libtiff 4.0.*
+    python 3.4*
+    zlib 1.2.*
+
+pillow 3.3.1 py35_0
+-------------------
+file name   : pillow-3.3.1-py35_0.tar.bz2
+name        : pillow
+version     : 3.3.1
+build string: py35_0
+build number: 0
+channel     : defaults
+size        : 848 KB
+arch        : x86_64
+date        : 2016-08-22
+license     : PIL license
+license_family: Other
+md5         : 484d0e8f8a34220e950e89f71e7b5066
+noarch      : None
+platform    : linux
+url         : https://repo.continuum.io/pkgs/free/linux-64/pillow-3.3.1-py35_0.tar.bz2
+dependencies:
+    freetype 2.5.*
+    jpeg 8d
+    libtiff 4.0.*
+    python 3.5*
+    zlib 1.2.*
+
+pillow 3.4.1 py27_0
+-------------------
+file name   : pillow-3.4.1-py27_0.tar.bz2
+name        : pillow
+version     : 3.4.1
+build string: py27_0
+build number: 0
+channel     : defaults
+size        : 852 KB
+arch        : x86_64
+date        : 2016-10-05
+license     : PIL license
+license_family: Other
+md5         : 8f3379199520c11c7387f9fbb572020e
+noarch      : None
+platform    : linux
+url         : https://repo.continuum.io/pkgs/free/linux-64/pillow-3.4.1-py27_0.tar.bz2
+dependencies:
+    freetype 2.5.*
+    jpeg 8d
+    libtiff 4.0.*
+    python 2.7*
+    zlib 1.2.*
+
+pillow 3.4.1 py34_0
+-------------------
+file name   : pillow-3.4.1-py34_0.tar.bz2
+name        : pillow
+version     : 3.4.1
+build string: py34_0
+build number: 0
+channel     : defaults
+size        : 885 KB
+arch        : x86_64
+date        : 2016-10-05
+license     : PIL license
+license_family: Other
+md5         : 4956378e290c6a776628dd16259b72d9
+noarch      : None
+platform    : linux
+url         : https://repo.continuum.io/pkgs/free/linux-64/pillow-3.4.1-py34_0.tar.bz2
+dependencies:
+    freetype 2.5.*
+    jpeg 8d
+    libtiff 4.0.*
+    python 3.4*
+    zlib 1.2.*
+
+pillow 3.4.1 py35_0
+-------------------
+file name   : pillow-3.4.1-py35_0.tar.bz2
+name        : pillow
+version     : 3.4.1
+build string: py35_0
+build number: 0
+channel     : defaults
+size        : 885 KB
+arch        : x86_64
+date        : 2016-10-05
+license     : PIL license
+license_family: Other
+md5         : 2966c0cb0a7309c0888b16a848ba97f9
+noarch      : None
+platform    : linux
+url         : https://repo.continuum.io/pkgs/free/linux-64/pillow-3.4.1-py35_0.tar.bz2
+dependencies:
+    freetype 2.5.*
+    jpeg 8d
+    libtiff 4.0.*
+    python 3.5*
+    zlib 1.2.*
+
+pillow 3.4.2 py27_0
+-------------------
+file name   : pillow-3.4.2-py27_0.tar.bz2
+name        : pillow
+version     : 3.4.2
+build string: py27_0
+build number: 0
+channel     : defaults
+size        : 852 KB
+arch        : x86_64
+date        : 2016-10-21
+license     : PIL license
+license_family: Other
+md5         : 652f4aa9a57ee2a032ce1c7355252a92
+noarch      : None
+platform    : linux
+url         : https://repo.continuum.io/pkgs/free/linux-64/pillow-3.4.2-py27_0.tar.bz2
+dependencies:
+    freetype 2.5.*
+    jpeg 8d
+    libtiff 4.0.*
+    python 2.7*
+    zlib 1.2.*
+
+pillow 3.4.2 py34_0
+-------------------
+file name   : pillow-3.4.2-py34_0.tar.bz2
+name        : pillow
+version     : 3.4.2
+build string: py34_0
+build number: 0
+channel     : defaults
+size        : 885 KB
+arch        : x86_64
+date        : 2016-10-21
+license     : PIL license
+license_family: Other
+md5         : 456331eb40ec182ba9906572a41bec32
+noarch      : None
+platform    : linux
+url         : https://repo.continuum.io/pkgs/free/linux-64/pillow-3.4.2-py34_0.tar.bz2
+dependencies:
+    freetype 2.5.*
+    jpeg 8d
+    libtiff 4.0.*
+    python 3.4*
+    zlib 1.2.*
+
+pillow 3.4.2 py35_0
+-------------------
+file name   : pillow-3.4.2-py35_0.tar.bz2
+name        : pillow
+version     : 3.4.2
+build string: py35_0
+build number: 0
+channel     : defaults
+size        : 885 KB
+arch        : x86_64
+date        : 2016-10-21
+license     : PIL license
+license_family: Other
+md5         : a4a0db4a9a5811c2350975a0e9836f8d
+noarch      : None
+platform    : linux
+url         : https://repo.continuum.io/pkgs/free/linux-64/pillow-3.4.2-py35_0.tar.bz2
+dependencies:
+    freetype 2.5.*
+    jpeg 8d
+    libtiff 4.0.*
+    python 3.5*
+    zlib 1.2.*
+
+pillow 3.4.2 py36_0
+-------------------
+file name   : pillow-3.4.2-py36_0.tar.bz2
+name        : pillow
+version     : 3.4.2
+build string: py36_0
+build number: 0
+channel     : defaults
+size        : 894 KB
+arch        : x86_64
+date        : 2016-12-23
+license     : PIL license
+license_family: Other
+md5         : c0dc9a18b623792b4a2b22d60aa50c8e
+noarch      : None
+platform    : linux
+url         : https://repo.continuum.io/pkgs/free/linux-64/pillow-3.4.2-py36_0.tar.bz2
+dependencies:
+    freetype 2.5.*
+    jpeg 8d
+    libtiff 4.0.*
+    python 3.6*
+    zlib 1.2.*
+
+pillow 4.0.0 py27_0
+-------------------
+file name   : pillow-4.0.0-py27_0.tar.bz2
+name        : pillow
+version     : 4.0.0
+build string: py27_0
+build number: 0
+channel     : defaults
+size        : 837 KB
+arch        : x86_64
+date        : 2017-01-03
+license     : PIL license
+license_family: Other
+md5         : 954e206bdb28d880057a20d1eff8a133
+noarch      : None
+platform    : linux
+url         : https://repo.continuum.io/pkgs/free/linux-64/pillow-4.0.0-py27_0.tar.bz2
+dependencies:
+    freetype 2.5.*
+    jpeg 9*
+    libtiff 4.0.*
+    python 2.7*
+    zlib 1.2.*
+
+pillow 4.0.0 py34_0
+-------------------
+file name   : pillow-4.0.0-py34_0.tar.bz2
+name        : pillow
+version     : 4.0.0
+build string: py34_0
+build number: 0
+channel     : defaults
+size        : 864 KB
+arch        : x86_64
+date        : 2017-01-03
+license     : PIL license
+license_family: Other
+md5         : bc59cfbce1ca77fb6a4bc841d95c81eb
+noarch      : None
+platform    : linux
+url         : https://repo.continuum.io/pkgs/free/linux-64/pillow-4.0.0-py34_0.tar.bz2
+dependencies:
+    freetype 2.5.*
+    jpeg 9*
+    libtiff 4.0.*
+    python 3.4*
+    zlib 1.2.*
+
+pillow 4.0.0 py35_0
+-------------------
+file name   : pillow-4.0.0-py35_0.tar.bz2
+name        : pillow
+version     : 4.0.0
+build string: py35_0
+build number: 0
+channel     : defaults
+size        : 863 KB
+arch        : x86_64
+date        : 2017-01-03
+license     : PIL license
+license_family: Other
+md5         : 4048785bebb7e5bc62d42af7edd1b8d1
+noarch      : None
+platform    : linux
+url         : https://repo.continuum.io/pkgs/free/linux-64/pillow-4.0.0-py35_0.tar.bz2
+dependencies:
+    freetype 2.5.*
+    jpeg 9*
+    libtiff 4.0.*
+    python 3.5*
+    zlib 1.2.*
+
+pillow 4.0.0 py36_0
+-------------------
+file name   : pillow-4.0.0-py36_0.tar.bz2
+name        : pillow
+version     : 4.0.0
+build string: py36_0
+build number: 0
+channel     : defaults
+size        : 859 KB
+arch        : x86_64
+date        : 2017-01-04
+license     : PIL license
+license_family: Other
+md5         : 9bb6541e11ed36c3c318edffa388c196
+noarch      : None
+platform    : linux
+url         : https://repo.continuum.io/pkgs/free/linux-64/pillow-4.0.0-py36_0.tar.bz2
+dependencies:
+    freetype 2.5.*
+    jpeg 9*
+    libtiff 4.0.*
+    python 3.6*
+    zlib 1.2.*
+
+pillow 4.0.0 py27_1
+-------------------
+file name   : pillow-4.0.0-py27_1.tar.bz2
+name        : pillow
+version     : 4.0.0
+build string: py27_1
+build number: 1
+channel     : defaults
+size        : 836 KB
+arch        : x86_64
+date        : 2017-02-14
+license     : PIL license
+license_family: Other
+md5         : 0ac7ff44be1745d15fe8cb3814721849
+noarch      : None
+platform    : linux
+url         : https://repo.continuum.io/pkgs/free/linux-64/pillow-4.0.0-py27_1.tar.bz2
+dependencies:
+    freetype 2.5.*
+    jpeg 9*
+    libtiff 4.0.*
+    olefile
+    python 2.7*
+    zlib 1.2.*
+
+pillow 4.0.0 py35_1
+-------------------
+file name   : pillow-4.0.0-py35_1.tar.bz2
+name        : pillow
+version     : 4.0.0
+build string: py35_1
+build number: 1
+channel     : defaults
+size        : 862 KB
+arch        : x86_64
+date        : 2017-02-14
+license     : PIL license
+license_family: Other
+md5         : c5b2ae8e1add7a138e03fe68d3faaae3
+noarch      : None
+platform    : linux
+url         : https://repo.continuum.io/pkgs/free/linux-64/pillow-4.0.0-py35_1.tar.bz2
+dependencies:
+    freetype 2.5.*
+    jpeg 9*
+    libtiff 4.0.*
+    olefile
+    python 3.5*
+    zlib 1.2.*
+
+pillow 4.0.0 py36_1
+-------------------
+file name   : pillow-4.0.0-py36_1.tar.bz2
+name        : pillow
+version     : 4.0.0
+build string: py36_1
+build number: 1
+channel     : defaults
+size        : 863 KB
+arch        : x86_64
+date        : 2017-02-14
+license     : PIL license
+license_family: Other
+md5         : 8623bdd722ba53a1f55a1c6c7ee79322
+noarch      : None
+platform    : linux
+url         : https://repo.continuum.io/pkgs/free/linux-64/pillow-4.0.0-py36_1.tar.bz2
+dependencies:
+    freetype 2.5.*
+    jpeg 9*
+    libtiff 4.0.*
+    olefile
+    python 3.6*
+    zlib 1.2.*
+
+pillow 4.1.0 py27_0
+-------------------
+file name   : pillow-4.1.0-py27_0.tar.bz2
+name        : pillow
+version     : 4.1.0
+build string: py27_0
+build number: 0
+channel     : defaults
+size        : 840 KB
+arch        : x86_64
+date        : 2017-04-05
+license     : PIL license
+license_family: Other
+md5         : 6591fcca59d780629be44184635914ae
+noarch      : None
+platform    : linux
+url         : https://repo.continuum.io/pkgs/free/linux-64/pillow-4.1.0-py27_0.tar.bz2
+dependencies:
+    freetype 2.5.*
+    jpeg 9*
+    libtiff 4.0.*
+    olefile
+    python 2.7*
+    zlib 1.2.*
+
+pillow 4.1.0 py35_0
+-------------------
+file name   : pillow-4.1.0-py35_0.tar.bz2
+name        : pillow
+version     : 4.1.0
+build string: py35_0
+build number: 0
+channel     : defaults
+size        : 867 KB
+arch        : x86_64
+date        : 2017-04-05
+license     : PIL license
+license_family: Other
+md5         : a9edc5ba50353d8ff665153b7192c0f7
+noarch      : None
+platform    : linux
+url         : https://repo.continuum.io/pkgs/free/linux-64/pillow-4.1.0-py35_0.tar.bz2
+dependencies:
+    freetype 2.5.*
+    jpeg 9*
+    libtiff 4.0.*
+    olefile
+    python 3.5*
+    zlib 1.2.*
+
+pillow 4.1.0 py36_0
+-------------------
+file name   : pillow-4.1.0-py36_0.tar.bz2
+name        : pillow
+version     : 4.1.0
+build string: py36_0
+build number: 0
+channel     : defaults
+size        : 867 KB
+arch        : x86_64
+date        : 2017-04-05
+license     : PIL license
+license_family: Other
+md5         : b371a698d2d01fbdf1d16c68e26cebf0
+noarch      : None
+platform    : linux
+url         : https://repo.continuum.io/pkgs/free/linux-64/pillow-4.1.0-py36_0.tar.bz2
+dependencies:
+    freetype 2.5.*
+    jpeg 9*
+    libtiff 4.0.*
+    olefile
+    python 3.6*
+    zlib 1.2.*
+
+pillow 4.1.1 py27_0
+-------------------
+file name   : pillow-4.1.1-py27_0.tar.bz2
+name        : pillow
+version     : 4.1.1
+build string: py27_0
+build number: 0
+channel     : defaults
+size        : 840 KB
+arch        : x86_64
+date        : 2017-05-08
+license     : PIL license
+license_family: Other
+md5         : 124aa2c2f4bdc716badeb467eed75397
+noarch      : None
+platform    : linux
+url         : https://repo.continuum.io/pkgs/free/linux-64/pillow-4.1.1-py27_0.tar.bz2
+dependencies:
+    freetype 2.5.*
+    jpeg 9*
+    libtiff 4.0.*
+    olefile
+    python 2.7*
+    zlib 1.2.*
+
+pillow 4.1.1 py35_0
+-------------------
+file name   : pillow-4.1.1-py35_0.tar.bz2
+name        : pillow
+version     : 4.1.1
+build string: py35_0
+build number: 0
+channel     : defaults
+size        : 867 KB
+arch        : x86_64
+date        : 2017-05-08
+license     : PIL license
+license_family: Other
+md5         : 851d00ee4a13afea7e03234fd51b83b2
+noarch      : None
+platform    : linux
+url         : https://repo.continuum.io/pkgs/free/linux-64/pillow-4.1.1-py35_0.tar.bz2
+dependencies:
+    freetype 2.5.*
+    jpeg 9*
+    libtiff 4.0.*
+    olefile
+    python 3.5*
+    zlib 1.2.*
+
+pillow 4.1.1 py36_0
+-------------------
+file name   : pillow-4.1.1-py36_0.tar.bz2
+name        : pillow
+version     : 4.1.1
+build string: py36_0
+build number: 0
+channel     : defaults
+size        : 866 KB
+arch        : x86_64
+date        : 2017-05-08
+license     : PIL license
+license_family: Other
+md5         : 17c9294e4e1794395d2e0fa30726c1a8
+noarch      : None
+platform    : linux
+url         : https://repo.continuum.io/pkgs/free/linux-64/pillow-4.1.1-py36_0.tar.bz2
+dependencies:
+    freetype 2.5.*
+    jpeg 9*
+    libtiff 4.0.*
+    olefile
+    python 3.6*
+    zlib 1.2.*
+
+pillow 4.2.0 py27_0
+-------------------
+file name   : pillow-4.2.0-py27_0.tar.bz2
+name        : pillow
+version     : 4.2.0
+build string: py27_0
+build number: 0
+channel     : defaults
+size        : 843 KB
+arch        : x86_64
+date        : 2017-07-03
+license     : PIL license
+license_family: Other
+md5         : 318e25fa40ec9e7d435a25d941c63444
+noarch      : None
+platform    : linux
+url         : https://repo.continuum.io/pkgs/free/linux-64/pillow-4.2.0-py27_0.tar.bz2
+dependencies:
+    freetype 2.5.*
+    jpeg 9*
+    libtiff 4.0.*
+    olefile
+    python 2.7*
+    zlib 1.2.*
+
+pillow 4.2.0 py35_0
+-------------------
+file name   : pillow-4.2.0-py35_0.tar.bz2
+name        : pillow
+version     : 4.2.0
+build string: py35_0
+build number: 0
+channel     : defaults
+size        : 871 KB
+arch        : x86_64
+date        : 2017-07-03
+license     : PIL license
+license_family: Other
+md5         : b4d2e1059cc5c1746f0ab0a5e7eea583
+noarch      : None
+platform    : linux
+url         : https://repo.continuum.io/pkgs/free/linux-64/pillow-4.2.0-py35_0.tar.bz2
+dependencies:
+    freetype 2.5.*
+    jpeg 9*
+    libtiff 4.0.*
+    olefile
+    python 3.5*
+    zlib 1.2.*
+
+pillow 4.2.0 py36_0
+-------------------
+file name   : pillow-4.2.0-py36_0.tar.bz2
+name        : pillow
+version     : 4.2.0
+build string: py36_0
+build number: 0
+channel     : defaults
+size        : 870 KB
+arch        : x86_64
+date        : 2017-07-03
+license     : PIL license
+license_family: Other
+md5         : 30f0d515c128e9cb29762f54dada7831
+noarch      : None
+platform    : linux
+url         : https://repo.continuum.io/pkgs/free/linux-64/pillow-4.2.0-py36_0.tar.bz2
+dependencies:
+    freetype 2.5.*
+    jpeg 9*
+    libtiff 4.0.*
+    olefile
+    python 3.6*
+    zlib 1.2.*
+
+pillow 4.2.1 py27_0
+-------------------
+file name   : pillow-4.2.1-py27_0.tar.bz2
+name        : pillow
+version     : 4.2.1
+build string: py27_0
+build number: 0
+channel     : defaults
+size        : 843 KB
+arch        : x86_64
+date        : 2017-07-08
+license     : PIL license
+license_family: Other
+md5         : 9acf3fd09a2b0751581905298fe97f3c
+noarch      : None
+platform    : linux
+url         : https://repo.continuum.io/pkgs/free/linux-64/pillow-4.2.1-py27_0.tar.bz2
+dependencies:
+    freetype 2.5.*
+    jpeg 9*
+    libtiff 4.0.*
+    olefile
+    python 2.7*
+    zlib 1.2.*
+
+pillow 4.2.1 py35_0
+-------------------
+file name   : pillow-4.2.1-py35_0.tar.bz2
+name        : pillow
+version     : 4.2.1
+build string: py35_0
+build number: 0
+channel     : defaults
+size        : 870 KB
+arch        : x86_64
+date        : 2017-07-08
+license     : PIL license
+license_family: Other
+md5         : fb93da891b03e94161f2b58f7d667674
+noarch      : None
+platform    : linux
+url         : https://repo.continuum.io/pkgs/free/linux-64/pillow-4.2.1-py35_0.tar.bz2
+dependencies:
+    freetype 2.5.*
+    jpeg 9*
+    libtiff 4.0.*
+    olefile
+    python 3.5*
+    zlib 1.2.*
+
+pillow 4.2.1 py36_0
+-------------------
+file name   : pillow-4.2.1-py36_0.tar.bz2
+name        : pillow
+version     : 4.2.1
+build string: py36_0
+build number: 0
+channel     : defaults
+size        : 870 KB
+arch        : x86_64
+date        : 2017-07-08
+license     : PIL license
+license_family: Other
+md5         : db4c7249625a76a200caa1c3192516ba
+noarch      : None
+platform    : linux
+url         : https://repo.continuum.io/pkgs/free/linux-64/pillow-4.2.1-py36_0.tar.bz2
+dependencies:
+    freetype 2.5.*
+    jpeg 9*
+    libtiff 4.0.*
+    olefile
+    python 3.6*
+    zlib 1.2.*
